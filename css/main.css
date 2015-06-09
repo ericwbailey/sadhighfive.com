@@ -1,0 +1,24 @@
+html, body {
+    background-color:   #fff;
+    color:              #000;
+    margin:             0;
+    padding:            0;
+}
+
+.main {
+    background: url('../img/highfive.gif') no-repeat center center;
+    height:     500px;
+    margin-top: 50px;
+}
+
+.main p {
+    padding:        340px 0 0 30px;
+    font-size:      20px;
+    font-weight:    bold;
+    text-align:     center;
+}
+
+.main p a {
+    color:              #000;
+    text-decoration:    none;
+}
